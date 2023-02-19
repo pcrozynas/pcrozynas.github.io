@@ -1038,6 +1038,12 @@ h4 {
   border-top: 1px solid #eee;
 }
 
+.mapindex {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+
 .accordion li {
   border-bottom: 1px solid #eee;
   padding: 15px 0px;
