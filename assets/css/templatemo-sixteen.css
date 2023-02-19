@@ -1026,25 +1026,15 @@ h4 {
   margin-left: 20%;
 }
 
-
-
 .bou {
   margin-left: 0%;
 }
 
 .indexmap {
-  width: 100%;
-  height: 300px;
+  width: 100% !important;
+  height: 300px !important;
   align-items: center;
   justify-content: center;
-}
-
-.mapindex {
-  display: inline-block;
-  align-items: center;
-  justify-content: center;
-  padding-bottom: 100px;
-  margin-top: 500px;
 }
 
 .ent--title {
